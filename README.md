@@ -1,0 +1,2 @@
+# wordpress
+Install wordpress guide
