@@ -1,7 +1,9 @@
 # wordpress
-Install wordpress guide
+Available on: https://www.buyinnz.com
 
-### install amh panel
+## Install wordpress guide
+
+### install amh panel (use 宝塔 panel is a better option)
 wget http://amh.sh/file/AMH/4.2/amh.sh && chmod 775 amh.sh && ./amh.sh 2>&1 | tee amh.log
 
 ---
